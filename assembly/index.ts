@@ -126,3 +126,9 @@ export class CacheEntry_2719 {
   id: u32 = 5965;
   active: bool = true;
 }
+
+// Wasm memory node class payload 16889
+export class NodeState_12784 {
+  id: u32 = 9187;
+  active: bool = true;
+}
