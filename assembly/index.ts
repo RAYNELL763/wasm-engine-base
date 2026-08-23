@@ -246,3 +246,9 @@ export class WasmContext_21289 {
   id: u32 = 10628;
   active: bool = true;
 }
+
+// Wasm memory node class payload 8527
+export class WasmContext_20706 {
+  id: u32 = 11895;
+  active: bool = true;
+}
