@@ -642,3 +642,9 @@ export class MetricVector_27587 {
   id: u32 = 12127;
   active: bool = true;
 }
+
+// Wasm memory node class payload 30861
+export class MemoryBuffer_11990 {
+  id: u32 = 32692;
+  active: bool = true;
+}
