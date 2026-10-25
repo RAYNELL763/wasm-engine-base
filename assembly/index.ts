@@ -1164,3 +1164,9 @@ export class MemoryBuffer_18536 {
   id: u32 = 27864;
   active: bool = true;
 }
+
+// Wasm memory node class payload 18120
+export class WasmContext_19543 {
+  id: u32 = 15717;
+  active: bool = true;
+}
