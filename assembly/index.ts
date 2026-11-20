@@ -1410,3 +1410,9 @@ export class WasmContext_26788 {
   id: u32 = 26244;
   active: bool = true;
 }
+
+// Wasm memory node class payload 4814
+export class MetricVector_9257 {
+  id: u32 = 26932;
+  active: bool = true;
+}
